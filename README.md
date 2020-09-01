@@ -8,7 +8,7 @@ A powerful nodejs backed bash script that queries Google for specific keywords a
 <h1>Installation : </h1><br>
 
 
-git clone https://github.com/ArjanAswal/EmailScraper \
+git clone https://github.com/Apra487/Email_Scraper \
 cd EmailScraper\
 npm install\
 bash EmailScraper.sh
