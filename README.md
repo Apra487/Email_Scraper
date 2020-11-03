@@ -5,14 +5,6 @@ A powerful nodejs backed bash script that queries Google for specific keywords a
 
 <b>Please don't use it to abuse or spam.</b>
 
-<h1>Installation : </h1><br>
-
-
-git clone https://github.com/Apra487/Email_Scraper \
-cd EmailScraper\
-npm install\
-bash EmailScraper.sh
-
 <h1>Prerequisites:</h1><br>
 
 
@@ -21,5 +13,14 @@ npm\
 VPN
 
 <br>
+
+<h1>Installation : </h1><br>
+
+git clone https://github.com/Apra487/Email_Scraper \
+cd EmailScraper\
+npm install\
+bash EmailScraper.sh
+
+
 
 Note: IP address needs to be changed after a specific query otherwise Google will block your queries and you will get no results. The script will prompt you for it. Please don't use it for spamming.
