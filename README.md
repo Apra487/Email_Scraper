@@ -16,7 +16,7 @@ VPN
 
 <h1>Installation : </h1><br>
 
-git clone https://github.com/Apra487/Email_Scraper.git
+git clone https://github.com/Apra487/Email_Scraper.git \
 cd EmailScraper\
 npm install\
 bash EmailScraper.sh
